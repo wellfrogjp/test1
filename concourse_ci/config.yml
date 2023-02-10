@@ -1,0 +1,11 @@
+# Docker
+docker-hub-email: < your huber email >
+docker-hub-username: < your huber username >
+docker-hub-password: < your huber password >
+docker-hub-repo-name: < repo name >
+
+# Kubernetes
+kubeconfig-file-content: < your k8s config file >
+
+# git
+git-private-key: < git private key >
